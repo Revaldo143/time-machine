@@ -1,0 +1,5 @@
+falkordb>=1.0.0
+rich>=13.0.0
+python-dotenv>=1.0.0
+# Optional — only if you want LLM-polished answers instead of templates:
+# google-generativeai>=0.8.0
